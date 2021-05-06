@@ -1,7 +1,13 @@
+✨ _human, student, programmer._ ✨
 ### 👨‍💻 What I do
 - 🎓 Learning: new and better programming languages
 - :stars: Working to get my world as being mine.
 
+### :hash: Languages I know
+- JavaScript
+- C#
+- HTML5 & CSS
+- VueJS
 <!--
 **constyy/constyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
