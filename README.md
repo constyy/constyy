@@ -12,7 +12,7 @@
 - Bootstrap
 
 ### 📫 Reach me at:
-- [Steam](https://steamcommunity.com/id/geniality/)
+- [Steam /id/geniality](https://steamcommunity.com/id/geniality/)
 - Discord: consty#9999
 
 <!--
