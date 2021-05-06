@@ -1,4 +1,6 @@
-### ⚡ Fun fact: coding is fun only when you want to
+### 👨‍💻 What I do
+- 🎓 Learning: new and better programming languages
+- :stars: Working to get my world as being mine.
 
 <!--
 **constyy/constyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
