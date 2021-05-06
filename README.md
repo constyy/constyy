@@ -1,7 +1,7 @@
 ✨ _human, student, programmer._ ✨
 ### 👨‍💻 What I do
 - 🎓 Learning: new and better programming languages
-- :stars: Working to get my world as being mine.
+- :stars: Working to buy the world.
 
 ### :hash: Used technologies
 - JavaScript
