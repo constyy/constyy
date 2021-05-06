@@ -13,6 +13,7 @@
 
 ### 📫 Reach me at:
 - [Steam (/id/geniality)](https://steamcommunity.com/id/geniality/)
+- [Instagram (/constydev)](https://instagram.com/constydev/)
 - Discord (consty#9999)
 
 <!--
