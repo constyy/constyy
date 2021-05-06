@@ -12,8 +12,8 @@
 - Bootstrap
 
 ### 📫 Reach me at:
-- [Steam /id/geniality](https://steamcommunity.com/id/geniality/)
-- Discord: consty#9999
+- [Steam (/id/geniality)](https://steamcommunity.com/id/geniality/)
+- Discord (consty#9999)
 
 <!--
 **constyy/constyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
