@@ -3,11 +3,14 @@
 - 🎓 Learning: new and better programming languages
 - :stars: Working to get my world as being mine.
 
-### :hash: Languages I know
+### :hash: Used technologies
 - JavaScript
 - C#
-- HTML5 & CSS
+- HTML5 & CSS3
 - VueJS
+- Tailwind CSS
+- Bootstrap
+
 <!--
 **constyy/constyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
