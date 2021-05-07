@@ -6,8 +6,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constyy&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=gruvbox"/>  
 </p>  
 <b> 👨‍💻 What I do </b>
-- 🎓 Learning: new and better programming languages
-- :stars: Working to buy the world.
+<p> - 🎓 Learning: new and better programming languages </p>
+<p> - :stars: Working to buy the world. </p>
 
 ### :hash: Used technologies
 - JavaScript
