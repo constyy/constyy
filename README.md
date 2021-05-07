@@ -1,5 +1,5 @@
 ✨ _human, student, programmer._ ✨
-### ![constyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=constyy&show_icons=true)
+### ![constyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=constyy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 👨‍💻 What I do
 - 🎓 Learning: new and better programming languages
 - :stars: Working to buy the world.
