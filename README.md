@@ -1,5 +1,5 @@
 ✨ _human, student, programmer._ ✨
-### ![constyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=constyy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyy)](https://github.com/anuraghazra/github-readme-stats)
+### ![constyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=constyy&show_icons=true)
 ### 👨‍💻 What I do
 - 🎓 Learning: new and better programming languages
 - :stars: Working to buy the world.
@@ -17,6 +17,7 @@
 - [Instagram (/constydev)](https://instagram.com/constydev/)
 - Discord (consty#9999)
 
+> Stats by [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **constyy/constyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
