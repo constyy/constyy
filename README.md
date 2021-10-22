@@ -10,16 +10,19 @@
 
 ### :hash: Used technologies
 - JavaScript
-- C#
+- Node.js
+- PHP
+- Shell
+- Python
+- C++
 - HTML5 & CSS3
-- VueJS
 - Tailwind CSS
 - Bootstrap
 
 ### 📫 Reach me at:
 - [Steam (/id/geniality)](https://steamcommunity.com/id/geniality/)
-- [Instagram (/constydev)](https://instagram.com/constydev/)
-- Discord (consty#9999)
+- [Instagram (/c0n57y)](https://instagram.com/c0n57y/)
+- Discord (consty#9926)
 
 > Stats by [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
