@@ -19,11 +19,6 @@
 - Tailwind CSS
 - Bootstrap
 
-### 📫 Reach me at:
-- [Steam (/id/geniality)](https://steamcommunity.com/id/geniality/)
-- [Instagram (/c0n57y)](https://instagram.com/c0n57y/)
-- Discord (consty#9926)
-
 > Stats by [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **constyy/constyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
