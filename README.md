@@ -1,4 +1,3 @@
-✨ _human, student, programmer._ ✨
 <p>  
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=constyy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
@@ -13,7 +12,6 @@
 - Node.js
 - PHP
 - Shell
-- Python
 - C++
 - HTML5 & CSS3
 - Tailwind CSS
